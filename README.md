@@ -82,5 +82,6 @@ Example body for POST and PUT:
 | Delete message | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ad145a5-7e70-4125-b950-eef6690eae49" />
 | Low Stock label | <img width="905" height="642" alt="image" src="https://github.com/user-attachments/assets/2a9c0ffc-9dff-44e3-9486-a38d458438e0" />
 
+![Uploading image.png…]()
 
 
